@@ -1,0 +1,111 @@
+
+<!DOCTYPE html>
+<html class="sl-theme-dark" lang="en">
+  <head>
+    <!-- initialize theme vars
+    https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff -->
+
+    <!-- initialize externals -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <script src=" https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js "></script>
+    
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.9.0/cdn/themes/dark.css" />
+     <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.9.0/cdn/shoelace-autoloader.js"></script>
+
+
+    <!-- initialize my stuff -->
+    <script src="/js/all.js"></script>
+    <script src="/js/main.js"></script>
+<script src="/js/themes.js"></script>
+    <script src="/js/cloaks.js"></script>
+    <script src="/js/themes.js"></script>
+<link rel="stylesheet" href="/themes.css" />
+<link rel="stylesheet" href="/style.css" />
+<link rel="stylesheet" href="profile.css" />
+
+
+
+    <!-- seo + other things -->
+    <title>Profile | Slackrr</title>
+    <link rel="icon" href="/favicon.ico" />
+
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+    <!-- toastify -->
+    <script></script>
+  </head>
+
+  <body>
+        <!-- <marquee style="background-color:black; color:white;"> SUB HEADERS UPDATE TOMMORROW!!</marquee> -->
+    <header>
+      <a href="/index.html">Home</a>
+      <a href="/bookmarklets.html">Bookmarklets</a>
+            <a href="/Games.html">Games</a>
+      <a href="/settings.html">Settings</a>
+      <a href="/support.html">Support</a>
+      <a id="blank" href="#">Open Blank</a>
+      <a href="/about.html">About</a>
+      
+    </header>
+
+    <main>
+     <div class="placeholder">
+       <nav>
+         <img src="logo.png" class="logo">
+         <ul>
+           <li><a href="#">Home</a></li>
+           <li><a href="#">features</a></li>
+           <li><a href="#">socials</a></li>
+           <li><a href="#">UpdateLog</a></li>
+         </ul>
+         <img src="user.png" class="user-img" onclick="toggleMenu()">
+
+<div class="sub-menu-wrap" id="subMenu">
+  <div class="sub-menu">
+    <div class="user-info">
+<img src="">
+      <h3>username:</h3>
+  </div>
+    <hr>
+    <a href="#" class="sub-menu-link">
+      <img src="profile.png">
+      <p>Edit Profile Picture</p>
+      <span>></span>
+    </a>
+    <a href="#" class="sub-menu-link">
+      <img src="settings.png">
+      <p>Settings & privacy</p>
+      <span>></span>
+          <a href="#" class="sub-menu-link">
+      <img src="help.png">
+      <p>Help & Support</p>
+      <span>></span>
+          <a href="#" class="sub-menu-link">
+      <img src="logout.png">
+      <p>Logout</p>
+      <span>></span>
+    </a>
+    </a>
+    </a>
+</div>
+       </nav>
+     </div>
+    </main>
+
+    <footer>
+      <a href="https://github.com/ublockedslackrr/ublockedslackrr.github.io">Source Code</a>
+      <a id="panicmode">Panic Mode</a>
+      <a href="/transfer.html">Transfer your data</a>
+      <a href="https://discord.gg/7jyufnwJNf">Discord</a>
+      <a href="/suggest.html">Bugs & suggestions</a>
+      <a href="/social.html">socials</a>
+      <a href="/version.html">Version: <i>v1.o.2 </i></a>
+    </footer>
+    <script>
+      let subMenu = document.getElementById("subMenu");
+      function toggleMenu(){
+        subMenu.classList.toggle("open-menu");
+      }
+    </script>
+  </body>
+</html>
