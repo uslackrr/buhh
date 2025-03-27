@@ -5,12 +5,6 @@
     "directory": "splatoon",
     "recommended": "1"
   },
-      {
-    "name": "I AM MUSIC | ALBUM",
-    "image": "MUSIC.png",
-    "directory": "IAMMUSIC",
-    "recommended": "1"
-  },
 {
     "name": "SmashKarts.io",
     "image": "smashkarts.jpg",
@@ -21,12 +15,6 @@
     "name": "Ballistic Chickens",
     "image": "ballistic.jpeg",
     "directory": "ballisticchickens",
-    "recommended": "1"
-  },
-      {
-    "name": "HaxeFlixel",
-    "image": "haxe.png",
-    "directory": "haxeflixel",
     "recommended": "1"
   },
       {
@@ -60,12 +48,6 @@
     "recommended": "1"
   },
       {
-    "name": "TAG | Mini Game",
-    "image": "TAG.jpeg",
-    "directory": "TAG",
-    "recommended": "1"
-  },
-      {
     "name": "Eaglercraft 1.5.2",
     "image": "icon.png",
     "directory": "eaglercraft",
@@ -83,12 +65,6 @@
     "directory": "wings",
     "recommended": "1"
   },
-     {
-    "name": "Deal or No Deal",
-    "image": "deal.jpg",
-    "directory": "deal",
-    "recommended": "1"
-  },   
       {
     "name": "Slope 3",
     "image": "cover.png",
