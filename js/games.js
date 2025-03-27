@@ -1,4 +1,4 @@
-$.getJSON("json/games.json", function (data) {
+$.getJSON("/json/games.json", function (data) {
 	if (document.readyState === "complete") {
 		loadGames(data);
 	} else {
