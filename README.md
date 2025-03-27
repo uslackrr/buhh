@@ -10,3 +10,5 @@
 - Monkey Mart
 - Friday Night Funkin'
 - And 12 Fnf Mods!
+
+ (will finish readme by saturday.)
