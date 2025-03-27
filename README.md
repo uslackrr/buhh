@@ -1,7 +1,7 @@
 ![](https://github.com/uslackrr/uslackrr.github.io/blob/main/images/README/title-white.png)
 ![](https://github.com/uslackrr/uslackrr.github.io/blob/main/images/README/title.png)
 ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/fnf.jpg)
-[![](https://github.com/uslackrr/uslackrr.github.io/blob/main/images/README/selenite.png)](https://youtube.com/@rhap5ody-ynz?si=7339Ekd4DVWQCtix)
+[![](https://github.com/uslackrr/uslackrr.github.io/blob/main/images/README/selenite.png)]()
 ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/quote.png)
 # Popular Repos Include Of:
 - ## Friday Night Funkin Mods Website
