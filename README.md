@@ -1,5 +1,5 @@
-![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/black-repo.png)
-![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/repo.png)
+![](https://github.com/uslackrr/uslackrr.github.io/blob/main/images/README/title-white.png)
+![](https://github.com/uslackrr/uslackrr.github.io/blob/main/images/README/title.png)
 ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/fnf.jpg)
 ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/white-repo.png)
 ![](https://github.com/repositoryrepos/repositoryrepos/blob/main/images/quote.png)
