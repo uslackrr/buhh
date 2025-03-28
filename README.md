@@ -12,6 +12,11 @@
 - And 12 Fnf Mods!
 
 # Version 1.o.3 OUT BY MARCH 30TH!!
+## New Games:
+- 25 *NEW* .io games
+- 17 *NEW* FNF MODS
+- Profiles **FIXED** + **30** *Custom* Profiles
+- **50** *Custom MADE* **Themes** by @h8rpr and The **Community!** :DD
 ## updated:
 - files organized into files
 - seperated games from -----> the website
