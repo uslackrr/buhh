@@ -160,7 +160,6 @@ img {
   aspect-ratio: 1 / 1;
   margin: 2%;
 }
-
 .game, .suggest {
   width: 15%;
   border-radius: 20px;
@@ -198,6 +197,49 @@ img.star {
   margin-bottom: 3px;
   margin-left: 10px;
 }
+
+
+/* BIG IMAGES*/
+.big-img {
+  width: 100%;
+  aspect-ratio: auto;
+  user-select: none;
+  filter: drop-shadow(var(--shadow));
+  image-rendering: auto;
+}
+
+.big-img-container a {
+  width: 100%;
+}
+
+.big-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 0;
+  flex-wrap: wrap;
+  width: 6%;
+  aspect-ratio: 1 / 1;
+  margin: 2%;
+}
+
+
+.big-game img, .suggest big-img {
+  width: 100%;
+  border-radius: 20px;
+  aspect-ratio: 1 / 1;
+}
+
+big-img.star {
+  float: left;
+  width: 10%;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 10px;
+}
+
+
 
 #noscroll {
   overflow-y: hidden;
