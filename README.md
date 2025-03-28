@@ -26,7 +26,7 @@
   these new changes make it easier for me to push out *Weekly* updates and in order to add new games without it taking much storage for **both** the website *itself*
   and the *user's expiriance*!
   I will make the **Games** also open source to *access* into **Your own websites** if you want, *@credit me if you want idc* But i **HIGHLY** recommend crediting 
-  **@skysthelimit.dev for all her hard work** + **@Klxntic,@FirePlayz132,@toastergoldie,@amhooman** for the *Friday Night Funkin' Mod* sources and *All the original creators of the Mods* 
+  **@skysthelimit.dev** *for all her hard work* + **@Klxntic,@FirePlayz132,@toastergoldie,@amhooman** for the *Friday Night Funkin' Mod* sources and *All the original creators of the Mods* 
   And 
   **ALL** games used *inside of 
   This open source developed project! Make sure to Enjoy, *Explore*, *and **Share** This website to people you know.**
