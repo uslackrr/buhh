@@ -28,5 +28,7 @@
   **@skysthelimit.dev for all her hard work** + **@,@,@,@** for the *Friday Night Funkin' Mod* sources and *All the original creators of the Mods* And **ALL** games used *inside of 
   This open source developed project! Make sure to Enjoy, *Explore*, *and **Share** This website to people you know.**
   
-  ## REMEMBER TO VIEW THE ALTERNATIVE LINKS PAGE MADE BY TSOS
+  ## REMEMBER TO VIEW THE ALTERNATIVE LINKS PAGE MADE BY T.S.O.S
+  [![](https://github.com/uslackrr/uslackrr.github.io/blob/main/images/README/selenite.png)](https://github.com/repositoryrepos/Game-Library)
+
   https://
