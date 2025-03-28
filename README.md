@@ -29,6 +29,6 @@
   This open source developed project! Make sure to Enjoy, *Explore*, *and **Share** This website to people you know.**
   
   ## REMEMBER TO VIEW THE ALTERNATIVE LINKS PAGE MADE BY T.S.O.S
-  [![](https://github.com/uslackrr/uslackrr.github.io/blob/main/images/README/selenite.png)](https://github.com/repositoryrepos/Game-Library)
+  [![](https://github.com/uslackrr/uslackrr/blob/main/TSOS%20-%20The%20Site%20Of%20Sites.png)](https://thesiteofsites.github.io./)
 
   https://
